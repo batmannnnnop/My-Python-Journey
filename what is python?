@@ -1,0 +1,18 @@
+Python is a programming language used to talking to machines.
+Machine do not understand human language, it only understands 0 and 1.
+then, how are we supposed to give it instructions and tell it to perform a specific task.
+maybe like addition or multiplication!!
+theat's where these programming languages come into charge.
+there are -
+  -> low level programming languages.
+  -> mid level programming languages.
+  -> high level programming languages.
+
+Python is a high level programming language which is used to perform instructions on a machine.
+it is very simple and easy to understand.
+it is free and open source.
+Python is developed by guido van rossum.
+we write program in python also known as block of code to execute any kind of instructions.
+how this code looks like - this is the first code for python-->
+    ->print("Hello World")
+
