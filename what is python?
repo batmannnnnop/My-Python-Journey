@@ -9,10 +9,13 @@ there are -
   -> high level programming languages.
 
 Python is a high level programming language which is used to perform instructions on a machine.
-it is very simple and easy to understand.
+it is very simple and easy to understand (SECRET - because it is mostly like english language).
 it is free and open source.
 Python is developed by guido van rossum.
 we write program in python also known as block of code to execute any kind of instructions.
 how this code looks like - this is the first code for python-->
     ->print("Hello World")
-
+This program simply tells the machine to print -> hello world.
+See that easy it is.
+Now - first we will learn how to install pyhton in windows or linux or MacOS.(go to the next File)
+                                                                                                                                                    Thanks.
